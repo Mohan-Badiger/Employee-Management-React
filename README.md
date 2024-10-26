@@ -1,4 +1,27 @@
-# Employee Managemt Using React + Vite + Tailwind CSS 
+# Employee Task Management Web Application
+
+This application is designed to manage employee tasks efficiently, using **React** and **Tailwind CSS** with **local storage** for data persistence. It allows users to create, categorize, and manage tasks with easy tracking of task status.
+
+## Features
+- **Task Categorization**: Tasks are organized into categories: New, Active, Completed, and Failed.
+- **Task Cards**: Each task is displayed as a card that includes:
+  - **Task Title**: A brief title for the task.
+  - **Task Description**: Detailed information about the task.
+  - **Task Category**: Category to indicate the current status.
+  - **Task Date**: Date assigned to the task.
+  - **Action Buttons**: Mark tasks as Accepted, Completed, Failed, or Inactive.
+- **Persistent Storage**: Tasks are saved using local storage, ensuring data is retained across sessions.
+
+## Technologies Used
+- **React**: For dynamic UI components and state management.
+- **Tailwind CSS**: For fast and responsive styling.
+- **Local Storage**: To save and retrieve tasks locally.
+
+## Getting Started
+Clone this repository and run the following commands to install dependencies and start the app:
+
+npm install
+npm run dev
 
 
 This is login page
@@ -24,7 +47,9 @@ Employee login Interface -
 ![Screenshot 2024-10-26 170006](https://github.com/user-attachments/assets/20c4ff08-df0e-4160-aa5a-2bcbee36704c)
 
 -it shows new task, completed task,Active task and failed task
+
 -and each task card shows the data as follow as
+
  -> task title
  -> task description
  -> task category
