@@ -51,9 +51,13 @@ Employee login Interface -
 -and each task card shows the data as follow as
 
  -> task title
+ 
  -> task description
+ 
  -> task category
+ 
  -> task date
+ 
  -> buttons to mark Accept, mark as Complete, mark as failed or In Active.
 
  ![Screenshot 2024-10-26 170029](https://github.com/user-attachments/assets/fd8577bf-9475-418f-ae24-c84a5b7ff035)
